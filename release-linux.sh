@@ -1,2 +1,2 @@
-export JAVA_HOME=/home/mos/java/jdk-16.0.2+7
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 mvn clean install package -Dbitwig.extension.directory=target
