@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 JAVA_HOME_USER=/home/$USER/java/jdk-17.0.5+8
 JAVA_HOME_DEBIAN=/usr/lib/jvm/java-17-openjdk-amd64
 
